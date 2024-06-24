@@ -1,7 +1,7 @@
 REM Rick Roll Motherfucker
-GUI SPACE
+GUI r
 DELAY 3000
-STRING safari
+STRING msedge
 ENTER
 DELAY 3000
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
